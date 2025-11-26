@@ -44,7 +44,7 @@ We may update this policy from time to time. Changes will be posted on this page
 ## Contact
 For questions about privacy:
 - Email: ahmadzuhal6@gmail.com
-- Website: https://github.com/yourusername/billooo
+- Website: https://azuhalz.github.io/billooo-privacy-policy
 
 ---
 
