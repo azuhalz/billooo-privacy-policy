@@ -43,7 +43,7 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 For questions about privacy:
-- Email: your-email@example.com
+- Email: ahmadzuhal6@gmail.com
 - Website: https://github.com/yourusername/billooo
 
 ---
